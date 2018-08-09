@@ -1,0 +1,20 @@
+[
+	{
+		"_class": "com.purwar.demo.SpringPersontest.domain.Person",
+		"emailAddress" : "johndoe@nowhere.com",
+		"firstName" : "John",
+		"lastName" : "Doe"
+	},
+	{
+		"_class": "io.pivotal.demo.SpringPersontest.domain.Person",
+		"emailAddress" : "jane@somewhere.com",
+		"firstName" : "Jane",
+		"lastName" : "Smith"
+	},
+	{
+		"_class": "io.pivotal.demo.SpringPersontest.domain.Person",
+		"emailAddress" : "bobevans@someplace.com",
+		"firstName" : "Bob",
+		"lastName" : "Evans"
+	}
+]
